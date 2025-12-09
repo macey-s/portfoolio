@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca1e9ce1-b27b-43bc-b0bb-40c1ebb5fa78" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ArtisanDream.Tools" beforeDir="false" afterPath="$PROJECT_DIR$/../ArtisanDream.Tools" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SOs/MyScore.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../SOs/MyScore.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenes/ArenaTesting.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Scenes/ArenaTesting.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/8a/8a5ec5a224bb3aa8a51c2abe5562e03b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/99/991a13c723e95a0931f73a7ffc40f90e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/1900b0aE-inputdata.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/1900b0aE-inputdata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/1900b0aE.dag" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/1900b0aE.dag" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/1900b0aE.dag.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/1900b0aE.dag.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/1900b0aE.dag.outputdata" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/1900b0aE.dag.outputdata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/1900b0aE.dag.payloads" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/1900b0aE.dag.payloads" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/1900b0aE.dag_derived" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/1900b0aE.dag_derived" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/1900b0aE.dag_fsmtime" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/1900b0aE.dag_fsmtime" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/TundraBuildState.state" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/TundraBuildState.state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/TundraBuildState.state.map" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/TundraBuildState.state.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.dll.mvfrm.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.dll.mvfrm.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.mvfrm.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.mvfrm.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.ref.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.DocCodeSamples.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.DocCodeSamples.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.DocCodeSamples.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.DocCodeSamples.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.ForUI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.ForUI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.ForUI.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.ForUI.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Unity.Multiplayer.Center.Common.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Unity.Multiplayer.Center.Common.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Unity.Multiplayer.Center.Common.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Unity.Multiplayer.Center.Common.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Unity.Multiplayer.Center.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Unity.Multiplayer.Center.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Unity.Multiplayer.Center.Editor.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Unity.Multiplayer.Center.Editor.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/backend1.traceevents" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/backend1.traceevents" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/backend2.traceevents" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/backend2.traceevents" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/buildprogram0.traceevents" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/buildprogram0.traceevents" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/fullprofile.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/fullprofile.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/tundra.digestcache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/tundra.digestcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Bee/tundra.log.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Bee/tundra.log.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageManager/ProjectCache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/PackageManager/ProjectCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageManager/ProjectCache.md5" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/PackageManager/ProjectCache.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageManager/projectResolution.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/PackageManager/projectResolution.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PreviousActionData.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/PreviousActionData.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PreviousActionStack.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/PreviousActionStack.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/SceneVisibilityState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.InputSystem.DocCodeSamples.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.InputSystem.DocCodeSamples.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.InputSystem.ForUI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.InputSystem.ForUI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.InputSystem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.InputSystem.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.Multiplayer.Center.Common.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.Multiplayer.Center.Common.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.Multiplayer.Center.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.Multiplayer.Center.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.TextMeshPro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/UnityEditor.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/UnityEditor.UI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/UnityEngine.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/UnityEngine.UI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Search/98957a664bd18c47a3e41b2a0189ef53.33329.b.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Search/98957a664bd18c47a3e41b2a0189ef53.33329.b.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Search/transactions.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/Search/transactions.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/StateCache/MainStageHierarchy/21/21be4b83eb656fef53356ab671870244.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/StateCache/MainStageHierarchy/21/21be4b83eb656fef53356ab671870244.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/StateCache/SceneView/2f/2f1360d3ff084bbf0aa405e15816d368.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/StateCache/SceneView/2f/2f1360d3ff084bbf0aa405e15816d368.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/UndoData.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/UndoData.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/UndoStack.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/UndoStack.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/expandedItems" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ilpp.pid" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ilpp.pid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UserSettings/Search.settings" beforeDir="false" afterPath="$PROJECT_DIR$/../../UserSettings/Search.settings" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/WinCondition.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="33OdfKm9m4rYgmkqgzETyfD70Rd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca1e9ce1-b27b-43bc-b0bb-40c1ebb5fa78" name="Changes" comment="" />
+      <created>1759192168041</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759192168041</updated>
+      <workItem from="1759192186733" duration="1089000" />
+      <workItem from="1759193643227" duration="155000" />
+      <workItem from="1759193824522" duration="468000" />
+      <workItem from="1759195450802" duration="1059000" />
+      <workItem from="1759196530940" duration="728000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
